@@ -1,2 +1,6 @@
 # Vary-tiny
-Vary-tiny from scratch training method on public data（a bit different with Vary）
+
+# Background
+1. I found the original Vary codebase based on Huggingface makes it hard for loss to converge when epoch>1, so I changed a codebase based on Lavis.
+
+2. 
