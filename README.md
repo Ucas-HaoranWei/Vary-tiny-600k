@@ -58,7 +58,7 @@ If your training goes smoothly, your loss (end of each epoch) will be similar to
 
 
 ## Demo
-1. change the ``pretrained'' and ``finetuned'' path with your checkpoints in ``LAVIS-main/lavis/configs/models/varytiny/varytiny_inference.yaml'', such as:
+1. change the "pretrained" and "finetuned" path with your checkpoints in ``LAVIS-main/lavis/configs/models/varytiny/varytiny_inference.yaml'', such as:
 2. 
    ![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/8c008c8f-862f-4e0d-afc5-6117d5e7a527)
 ```Shell
