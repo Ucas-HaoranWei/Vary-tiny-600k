@@ -52,7 +52,8 @@ python -m torch.distributed.run --master_addr xxx --master_port xxx --node_rank 
 ```
 
 If your training goes smoothly, your loss will be similar to the following (2×8 H800)：
-![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/36784a57-a86f-4a95-8338-d80aaa5cf613)
+![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/9c02a5a5-e93d-4a94-bd7d-c4b76d30d6f6)
+
 
 
 ## Demo
