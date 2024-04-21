@@ -28,7 +28,7 @@
 ## Install
 1. Clone this repository and navigate to the Vary-tiny-600k folder
 ```bash
-[git clone https://github.com/Ucas-HaoranWei/Vary.git](https://github.com/Ucas-HaoranWei/Vary-tiny-600k.git)
+git clone https://github.com/Ucas-HaoranWei/Vary-tiny-600k.git
 cd LAVIS-main
 ```
 2. Install Package
