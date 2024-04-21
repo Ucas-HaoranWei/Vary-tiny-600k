@@ -9,4 +9,4 @@
 
 ## Release
 
--  [2024/4/19] The codebase will be public at the beginning of next week.
+-  [2024/4/19] The codebase and dataset will be public at the beginning of next week.
