@@ -40,7 +40,7 @@ pip install -e .
    - download the Vary-600k [here](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ ) with code "vary"
    - prepare the dirs as follows:
    - 
-     ![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/21d529ea-be53-41d3-9ca0-72eb29958bef)
+   ![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/21d529ea-be53-41d3-9ca0-72eb29958bef)
 
 ## Train
 ```Shell
@@ -51,8 +51,9 @@ or multi machines
 python -m torch.distributed.run --master_addr xxx --master_port xxx --node_rank xxx --nnodes xxx --nproc_per_node xxx  train.py --cfg-path lavis/projects/varytiny/train/pretrain.yaml
 ```
 
-If your training goes smoothly, your loss will be similar to the following (2×8 H800)：
-![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/9c02a5a5-e93d-4a94-bd7d-c4b76d30d6f6)
+If your training goes smoothly, your loss (end of each epoch) will be similar to the following (2×8 H800)：
+
+   ![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/9c02a5a5-e93d-4a94-bd7d-c4b76d30d6f6)
 
 
 
