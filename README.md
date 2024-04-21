@@ -2,7 +2,7 @@
 <img src="asset/vary-600k.jpg" style="width: 200px" align=center>
 </p>
 <p align="center">
-<a href="">Vary-tiny-600k</a>       
+<a href="">Vary-600k</a>       
 </p>
 
 ## Background
