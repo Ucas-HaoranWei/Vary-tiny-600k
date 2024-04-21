@@ -1,4 +1,4 @@
-# Vary-tiny
+# Vary-tiny & Vary-600k
 
 ### Background
 - I found the original Vary [codebase](https://github.com/Ucas-HaoranWei/Vary) based on Huggingface [transformers](https://github.com/huggingface/transformers) makes it hard for loss to converge when epoch > 1, so I changed a codebase based on [LAVIS](https://github.com/salesforce/LAVIS).
