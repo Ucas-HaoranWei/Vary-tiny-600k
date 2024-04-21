@@ -63,8 +63,8 @@ If your training goes smoothly, your loss will be similar to the following (2×8
 python tests/models/test_varytiny.py  --image-file  xxx.jpg
 ```
 ## Vary-600k
-- Vary-600k is a PDF image-text pair dataset with about 30w English and 30W Chinese pages.
-- The dataset is extracted using Fitz. A BERT model is used to merge sentences within paragraphs. Paragraphs are separated by<lb>. The reason why we do not use "\n" is because "\n" is the "EOS" of opt-125m.
+- Vary-600k is a PDF image-text pair dataset with about 30W English and 30W Chinese pages.
+- The dataset is extracted using Fitz. A BERT model is used to merge sentences within paragraphs. Paragraphs are separated by "\<lb>". The reason why we do not use "\n" is because "\n" is the "EOS" of opt-125m.
 - You can use Vary-600k for your pretrain, warm-up, and so on.
 - Note that Vary-600k is only a sub-data of the pretrain data used in the original [Vary](https://github.com/Ucas-HaoranWei/Vary).
 - Download Vary-600k [here](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ). Code: "Vary"
