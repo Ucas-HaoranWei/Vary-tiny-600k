@@ -65,7 +65,7 @@ If your training goes smoothly, your loss (end of each epoch) will be similar to
 ```Shell
 python tests/models/test_varytiny.py  --image-file  xxx.jpg
 ```
-3. We also provide the model weights we trained Vary-tiny upon Vary-600k from scratch [Vary-tiny-600k.pth](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ). Code: "Vary". You can use it and directly run the inference.
+3. We also provide the model weights we trained Vary-tiny upon Vary-600k from scratch: [Vary-tiny-600k.pth](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ). Code: "Vary". You can use it and directly run the inference.
 ## Vary-600k
 - Vary-600k is a PDF image-text pair dataset with about 30W English and 30W Chinese pages.
 - The dataset is extracted using Fitz. A BERT model is used to merge sentences within paragraphs. Paragraphs are separated by "\<lb>". The reason why we do not use "\n" is because we use "\n" as the "EOS" of opt-125m in this codebase.
