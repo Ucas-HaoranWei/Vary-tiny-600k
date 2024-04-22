@@ -11,6 +11,7 @@
 
 
 ## Release
+- [2024/4/21] 🔥🔥🔥 For OneChart, we have released the web demo in [Project Page](https://onechartt.github.io/). Have fun!!
 -  [2024/4/21] 🔥🔥🔥 We present a Vary-tiny LAVIS codebase and the Vary-600k dataset !!!
 
 
