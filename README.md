@@ -2,7 +2,7 @@
 <img src="asset/vary-600k.jpg" style="width: 200px" align=center>
 </p>
 <p align="center">
-<a href="">Vary-600k</a>       
+<a href="https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ">Vary-600k</a>       
 </p>
 
 ## Background
@@ -37,7 +37,7 @@ pip install -e .
 ```
 3. Prepare Pretrain Weights and Data
    - download the OPT-125M [here](https://huggingface.co/facebook/opt-125m/tree/main) and the SAM-b weights [here](https://github.com/facebookresearch/segment-anything)
-   - download the Vary-600k [here](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ ) with code "vary"
+   - download the Vary-600k [here](https://pan.baidu.com/s/18Rh53JxvbYYl9BPHoFvWcQ) with code "vary"
    - prepare the dirs as follows:
    - 
    ![image](https://github.com/Ucas-HaoranWei/Vary-tiny-600k/assets/50487563/21d529ea-be53-41d3-9ca0-72eb29958bef)
