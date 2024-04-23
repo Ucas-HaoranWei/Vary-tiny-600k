@@ -233,7 +233,7 @@ class VaryOPT(VaryBase):
                 do_sample=use_nucleus_sampling,
                 temperature=temperature,
                 num_beams=num_beams,
-                max_length=2048,
+                max_length=1600,
                 min_length=min_length,
                 eos_token_id=self.eos_token_id,
                 no_repeat_ngram_size = 20,
