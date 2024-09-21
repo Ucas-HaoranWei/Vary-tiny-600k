@@ -11,8 +11,9 @@
 
 
 ## Release
+- [2024/9/03] 🔥🔥🔥 We release a very strong and comprehensive OCR model [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0).
 - [2024/4/21] 🔥🔥🔥 For OneChart, we have released the web demo in [Project Page](https://onechartt.github.io/). Have fun!!
--  [2024/4/21] 🔥🔥🔥 We present a Vary-tiny LAVIS codebase and the Vary-600k dataset !!!
+- [2024/4/21] 🔥🔥🔥 We present a Vary-tiny LAVIS codebase and the Vary-600k dataset !!!
 
 
 ## Contents
